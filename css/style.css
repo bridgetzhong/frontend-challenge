@@ -1,0 +1,118 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+
+*{
+  box-sizing: border-box;
+}
+
+
+body {
+  background-color: #333333;
+  font-family: sans-serif;
+  font-size: 10px;
+}
+
+
+h1 {
+  color: #0C80A7;
+  font-family: "Helvetica", sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+
+h3 {
+  font-family: "Helvetica", san-serif;
+  font-size: 16px;
+}
+
+h4 {
+  color: #FFFFFF;
+  font-family: "Helvetica", sans-serif;
+  font-size: 16px;
+}
+
+h5 {
+  text-align:right;
+  font-family: "Helvetica", sans-serif;
+  font-size: 16px;
+}
+
+
+.container {
+  background-color: #FFFFFF;
+  height: 690px;
+  margin: 0 auto;
+  width: 420px;
+} /* FULL SCREEN */
+
+
+.arrow-left {
+  float: left;
+  padding-bottom: 4%;
+  padding-left: 5%;
+  padding-right: 1%;
+  padding-top: 4%;
+  width: 10%;
+}
+
+.maps {
+    float: left;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 5%;
+    padding-bottom: 4%;
+}
+
+.routes {
+  float: left;
+  padding-top: 5%;
+  padding-left: 14%;
+}
+
+
+nav {
+  background-color: #56CCF2;
+  margin: 0 auto;
+  position: fixed;
+  width: 420px;
+}
+
+
+.ongoing-list {
+  padding-top: 12%;
+  width: 100%;
+}
+
+
+.location {
+  overflow: hidden;
+  padding-left: 5%;
+  padding-top: 5%;
+  width: 100%;
+}
+
+.times {
+  float: left;
+}
+
+
+.arrow {
+  float: right;
+  padding-right: 5%;
+} /* RIGHT ARROW */
+
+
+.content {
+  float: left;
+  padding-bottom: 4%;
+  width: 70%;
+} /*TITLE AND ADDRESS */
+
+
+.oos-routes {
+  padding-left: 5%;
+  padding-top: 5%;
+}
