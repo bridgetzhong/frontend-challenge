@@ -2,11 +2,9 @@
   box-sizing: border-box;
 }
 
-
 *{
   box-sizing: border-box;
 }
-
 
 body {
   background-color: #333333;
@@ -14,14 +12,12 @@ body {
   font-size: 10px;
 }
 
-
 h1 {
   color: #0C80A7;
   font-family: "Helvetica", sans-serif;
   font-size: 16px;
   font-weight: bold;
 }
-
 
 h3 {
   font-family: "Helvetica", san-serif;
@@ -39,7 +35,6 @@ h5 {
   font-family: "Helvetica", sans-serif;
   font-size: 16px;
 }
-
 
 .container {
   background-color: #FFFFFF;
@@ -72,7 +67,6 @@ h5 {
   padding-left: 14%;
 }
 
-
 nav {
   background-color: #56CCF2;
   margin: 0 auto;
@@ -80,12 +74,10 @@ nav {
   width: 420px;
 }
 
-
 .ongoing-list {
   padding-top: 12%;
   width: 100%;
 }
-
 
 .location {
   overflow: hidden;
@@ -96,23 +88,22 @@ nav {
 
 .times {
   float: left;
+  text-align: right;
+  width: 20%;
 }
-
 
 .arrow {
   float: right;
   padding-right: 5%;
 } /* RIGHT ARROW */
 
-
 .content {
   float: left;
-  padding-bottom: 4%;
-  width: 70%;
+  padding-bottom: 2%;
+  width: 68%;
 } /*TITLE AND ADDRESS */
 
-
 .oos-routes {
-  padding-left: 5%;
-  padding-top: 5%;
+  padding-top: 3%;
+  width: 100%;
 }
