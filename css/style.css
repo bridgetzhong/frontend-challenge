@@ -2,15 +2,18 @@
   box-sizing: border-box;
 }
 
+
 *{
   box-sizing: border-box;
 }
+
 
 body {
   background-color: #333333;
   font-family: sans-serif;
   font-size: 10px;
 }
+
 
 h1 {
   color: #0C80A7;
@@ -19,10 +22,12 @@ h1 {
   font-weight: bold;
 }
 
+
 h3 {
   font-family: "Helvetica", san-serif;
   font-size: 16px;
 }
+
 
 h4 {
   color: #FFFFFF;
@@ -31,11 +36,13 @@ h4 {
   font-weight: bold;
 }
 
+
 h5 {
   text-align:right;
   font-family: "Helvetica", sans-serif;
   font-size: 16px;
 }
+
 
 .container {
   background-color: #FFFFFF;
@@ -54,6 +61,7 @@ h5 {
   width: 10%;
 }
 
+
 .maps {
     float: left;
     padding-left: 1%;
@@ -62,11 +70,13 @@ h5 {
     padding-bottom: 4%;
 }
 
+
 .routes {
   float: left;
   padding-top: 5%;
   padding-left: 12%;
 }
+
 
 nav {
   background-color: #56CCF2;
@@ -75,10 +85,12 @@ nav {
   width: 420px;
 }
 
+
 .ongoing-list {
   padding-top: 12%;
   width: 100%;
 }
+
 
 .location {
   float: right;
@@ -90,6 +102,7 @@ nav {
   border-bottom-color: #DDDDDD;
 }
 
+
 .times {
   float: left;
   text-align: right;
@@ -97,17 +110,20 @@ nav {
   padding-right: 1%;
 }
 
+
 .arrow {
   float: right;
   padding-right: 5%;
   padding-top: 1.5%;
 } /* RIGHT ARROW */
 
+
 .content {
   float: left;
   padding-bottom: 2%;
   width: 63%;
 } /*ROUTE & BUS LINE*/
+
 
 .oos-routes {
   width: 100%;
